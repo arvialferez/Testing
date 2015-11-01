@@ -4,7 +4,8 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
 
-namespace Events
+namespace Events.Tests
+
 {
     [TestClass]
     public class SeleniumInstallationTest

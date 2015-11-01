@@ -4,7 +4,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
 
-namespace Tests
+namespace Events.Tests
 {
     [TestClass]
     public class Test

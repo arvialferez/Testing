@@ -2,7 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 
-namespace Tests
+namespace Events.Tests
 {
     [TestClass]
     public class TaggingWebApiTest : Test
