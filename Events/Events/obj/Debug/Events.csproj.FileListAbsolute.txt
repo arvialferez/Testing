@@ -1,0 +1,16 @@
+c:\users\arvialferez\documents\visual studio 2015\Projects\Events\Events\bin\Debug\Events.dll
+c:\users\arvialferez\documents\visual studio 2015\Projects\Events\Events\bin\Debug\Events.pdb
+c:\users\arvialferez\documents\visual studio 2015\Projects\Events\Events\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\arvialferez\documents\visual studio 2015\Projects\Events\Events\bin\Debug\WebDriver.dll
+c:\users\arvialferez\documents\visual studio 2015\Projects\Events\Events\bin\Debug\WebDriver.xml
+c:\users\arvialferez\documents\visual studio 2015\Projects\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+c:\users\arvialferez\documents\visual studio 2015\Projects\Events\Events\obj\Debug\Events.dll
+c:\users\arvialferez\documents\visual studio 2015\Projects\Events\Events\obj\Debug\Events.pdb
+C:\Users\arvialferez\Google Drive\Development\Visual Studio 2015\Projects\Events\Events\bin\Debug\Events.dll
+C:\Users\arvialferez\Google Drive\Development\Visual Studio 2015\Projects\Events\Events\bin\Debug\Events.pdb
+C:\Users\arvialferez\Google Drive\Development\Visual Studio 2015\Projects\Events\Events\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\arvialferez\Google Drive\Development\Visual Studio 2015\Projects\Events\Events\bin\Debug\WebDriver.dll
+C:\Users\arvialferez\Google Drive\Development\Visual Studio 2015\Projects\Events\Events\bin\Debug\WebDriver.xml
+C:\Users\arvialferez\Google Drive\Development\Visual Studio 2015\Projects\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+C:\Users\arvialferez\Google Drive\Development\Visual Studio 2015\Projects\Events\Events\obj\Debug\Events.dll
+C:\Users\arvialferez\Google Drive\Development\Visual Studio 2015\Projects\Events\Events\obj\Debug\Events.pdb
