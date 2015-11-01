@@ -50,13 +50,17 @@
     </When>
     <Otherwise>
       <ItemGroup>
-        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework" />
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework">
+          <Private>False</Private>
+        </Reference>
       </ItemGroup>
     </Otherwise>
   </Choose>
   <ItemGroup>
     <Compile Include="SeleniumInstallationTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test.cs" />
+    <Compile Include="TaggingWebApiTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

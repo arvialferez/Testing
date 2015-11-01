@@ -4,15 +4,15 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
 
-namespace Events
+namespace Tests
 {
     [TestClass]
-    public class SeleniumInstallationTest
+    public class Test
     {
 
-        static IWebDriver driverGC;
+        public static IWebDriver driverGC;
 
-        //[AssemblyInitialize]
+        [AssemblyInitialize]
         public static void Setup(TestContext testContext)
         {
             driverGC = new ChromeDriver(@"C:\Users\arvialferez\Documents\Github\Testing\Events\Events\lib\chromedriver_win32");
@@ -24,6 +24,7 @@ namespace Events
             driverGC.Navigate().GoToUrl("http://www.google.com");
             driverGC.FindElement(By.Id("lst-ib")).SendKeys("Selenium");
             driverGC.FindElement(By.Id("lst-ib")).SendKeys(Keys.Enter);
+            //driverGC.Quit();
         }
     }
 }
