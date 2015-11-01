@@ -7,7 +7,7 @@ using OpenQA.Selenium.Chrome;
 namespace Events
 {
     [TestClass]
-    public class UnitTest1
+    public class SeleniumInstallationTest
     {
 
         static IWebDriver driverGC;
@@ -15,7 +15,7 @@ namespace Events
         [AssemblyInitialize]
         public static void Setup(TestContext testContext)
         {
-            driverGC = new ChromeDriver(@"C:\Users\arvialferez\Documents\Visual Studio 2015\Projects\Events\Events\lib\chromedriver_win32");
+            driverGC = new ChromeDriver(@"C:\Users\arvialferez\Documents\Github\Testing\Events\Events\lib\chromedriver_win32");
         }
 
         [TestMethod]
