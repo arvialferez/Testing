@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Events.Data.Repositories
 {
-    class Repository
+    public interface IEntity
     {
+        int ID { get; }
     }
 }
