@@ -16,7 +16,7 @@ namespace Events.Tests
         //[AssemblyInitialize]
         public static void Setup(TestContext testContext)
         {
-            driverGC = new ChromeDriver(@"C:\Users\arvialferez\Documents\Github\Testing\Events\Events\lib\chromedriver_win32");
+            driverGC = new ChromeDriver(@"F:\Documents\GitHubVisualStudio\Testing\Events\packages\WebDriver.ChromeDriver.win32.2.20.0.0\content");
         }
 
         [TestMethod]

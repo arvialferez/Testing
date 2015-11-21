@@ -21,3 +21,12 @@ C:\Users\arvialferez\Documents\Github\Testing\Events\Events\bin\Debug\WebDriver.
 C:\Users\arvialferez\Documents\Github\Testing\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
 C:\Users\arvialferez\Documents\Github\Testing\Events\Events\obj\Debug\Events.dll
 C:\Users\arvialferez\Documents\Github\Testing\Events\Events\obj\Debug\Events.pdb
+F:\Documents\GitHubVisualStudio\Testing\Events\Events\bin\Debug\chromedriver.exe
+F:\Documents\GitHubVisualStudio\Testing\Events\Events\bin\Debug\Events.dll
+F:\Documents\GitHubVisualStudio\Testing\Events\Events\bin\Debug\Events.pdb
+F:\Documents\GitHubVisualStudio\Testing\Events\Events\bin\Debug\RestSharp.dll
+F:\Documents\GitHubVisualStudio\Testing\Events\Events\bin\Debug\WebDriver.dll
+F:\Documents\GitHubVisualStudio\Testing\Events\Events\bin\Debug\RestSharp.xml
+F:\Documents\GitHubVisualStudio\Testing\Events\Events\bin\Debug\WebDriver.xml
+F:\Documents\GitHubVisualStudio\Testing\Events\Events\obj\Debug\Events.dll
+F:\Documents\GitHubVisualStudio\Testing\Events\Events\obj\Debug\Events.pdb

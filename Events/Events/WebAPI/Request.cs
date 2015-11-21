@@ -18,14 +18,14 @@ namespace Events.WebAPI
         public Request(Uri absoluteUrl, string baseUrl, string resourcePath, Method method) : base(resourcePath, method)
 		{
 
-            var url = GetUri();
-            var baseUrl = GetBaseUrl(url);
-            var resourcePath = GetResourcePath(url);
+            //var url = GetUri();
+            //var baseUrl = GetBaseUrl(url);
+            //var resourcePath = GetResourcePath(url);
 
-            foreach (var header in Headers.Where(h => h.Name != Header.ContentType))
-                request.AddHeader(header.Name, header.Value);
+            //foreach (var header in Headers.Where(h => h.Name != Header.ContentType))
+            //    request.AddHeader(header.Name, header.Value);
 
-            request.AddParameter(Headers.Single(h => h.Name == Header.ContentType).Value, Body, ParameterType.RequestBody);
+            //request.AddParameter(Headers.Single(h => h.Name == Header.ContentType).Value, Body, ParameterType.RequestBody);
 
 
 

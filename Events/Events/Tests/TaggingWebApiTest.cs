@@ -8,6 +8,12 @@ namespace Events.Tests
     public class TaggingWebApiTest : Test
     {
         //[TestMethod]
+
+        public void Setup()
+        {
+            base.Setup();
+        }
+
         public void BrowserTest()
         {
             driverGC.Navigate().GoToUrl("http://www.google.com");
